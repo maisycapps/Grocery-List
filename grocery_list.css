@@ -1,0 +1,64 @@
+/* Header*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.gary {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    width: 20%;
+}
+
+/* Grocery Lists Body*/
+.sections {
+    display: block;
+    background-color: yellow;
+    height: 20px;
+    width: 55%;
+    padding: 10px;
+    border: 5px solid rgb(128, 0, 117);
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.lists {
+    display: inline-block;
+    background-color: rgb(217, 230, 173);
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border: 5px solid rgb(128, 0, 117);
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a, {
+    font-weight: bold;
+}
+.b {
+    font-weight: normal;
+}
+.images {
+    display: inline-block;
+    background-color: rgb(217, 230, 173);
+    max-height: 200px;
+    max-width: 200px;
+    padding: 10px;
+    border: 5px solid rgb(128, 0, 117);
+    margin: 20px;
+}
+
+/* list formatting */
+.container {
+    display: flex; 
+}
+
+footer {
+    padding: 5%;
+}
