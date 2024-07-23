@@ -28,6 +28,22 @@
     font-weight: bold;
     text-align: center;
 }
+.sectionsB {
+    display: block;
+    background-image: url("https://st2.depositphotos.com/1912333/7056/i/450/depositphotos_70564859-stock-photo-finger-on-lips.jpg");
+    background-size: contain;
+    height: 20px;
+    width: 55%;
+    padding: 10px;
+    border: 5px solid rgb(128, 0, 117);
+    border-style: dashed;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
 .lists {
     display: inline-block;
     background-color: rgb(217, 230, 173);
